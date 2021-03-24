@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 - 👨‍💻 iOS developer since 2014
 - 🍵 I’m currently working on Plate-It, the world's first license plate collection app, and Ceramispace, and all-in-one app for ceramicists
